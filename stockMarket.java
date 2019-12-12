@@ -10,17 +10,17 @@ class stockMarket{
     int a[] = new int[n+1];
     for(int i = 0; i < n; i++)
       a[i] = in.nextInt();
-    a[n] = 0;
+    a[n] = -1;
     int totalProfit = 0;
     int maxProfit = 0;
     int base = a[0];
     int baseIndex = 0;
 
-    for(int i = 0; i < n+1; i++)
+    for(int i = 1; i < n+1; i++)
     {
       if(base < a[i])
         maxProfit = a[i] - base;
-      if(base > a[i])
+      if(base > a[i] || a[i] == 0)
         {
           totalProfit = totalProfit + maxProfit;
           if(baseIndex != (i-1))
