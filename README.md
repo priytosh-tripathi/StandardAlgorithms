@@ -10,72 +10,72 @@ Its collabarative work, please express and ask.
 ___________________________________________________________________________________________________________________________________________
 
 ## The Algorithms are 
-Kadane's Algorithm.
+1. Kadane's Algorithm.
 
-Egg Dropping Problem.
+2. Egg Dropping Problem.
 
-Stock Market / Skyline Problem.
+3. Stock Market / Skyline Problem.
 
-Convert BST to Heap in Linear Time.
+4. Convert BST to Heap in Linear Time.
 
-Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
+5. Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
 
-Coin Change Problem.
+6. Coin Change Problem.
 
-Given a number , find the next largest prime number.
+7. Given a number , find the next largest prime number.
 
-Given a number , find the next largest pallindrom number.
+8. Given a number , find the next largest pallindrom number.
 
-Rain Water Trapping Problem.
+9. Rain Water Trapping Problem.
 
-Find the Number of Unique pallindromic substring in a given string. 
+10. Find the Number of Unique pallindromic substring in a given string. 
 
-Find if there is a loop in a Linked list (Single).
+11. Find if there is a loop in a Linked list (Single).
 
-If there's a loop, find the starting Point.
+12. If there's a loop, find the starting Point.
 
-Find the Kth element from the last of the linked list in a Single Traversal.
+13. Find the Kth element from the last of the linked list in a Single Traversal.
 
-Quick Search.
+14. Quick Search.
 
-Max Heap / Heapify Procedure.
+15. Max Heap / Heapify Procedure.
 
-Find the Left view of a Binary Tree. 
+16. Find the Left view of a Binary Tree. 
 
-Find the Bottom view of a Binary Tree.
+17. Find the Bottom view of a Binary Tree.
 
-Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
+18. Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
 
-Given a Binary Matrix , find the largest rectangle of 0's.
+19. Given a Binary Matrix , find the largest rectangle of 0's.
 
-Given a Binary Matrix , find the largest Square of 0's.
+20. Given a Binary Matrix , find the largest Square of 0's.
 
-Given a Binary Matrix , find the largest Island of 0's.
+21. Given a Binary Matrix , find the largest Island of 0's.
 
-Sieve of Erasthothenus.
+22. Sieve of Erasthothenus.
 
-Minimum number of Platforms needed for every train can hault at the given Station.
+23. Minimum number of Platforms needed for every train can hault at the given Station.
 
-Longest Common subsequence / Minimum edit distance.
+24. Longest Common subsequence / Minimum edit distance.
 
-Kth smallest element in an Array.
+25. Kth smallest element in an Array.
 
-Merge K sorted Array.
+26. Merge K sorted Array.
 
-Aggressive Cows Problem ( SPOJ : AGGRCOW ).
+27. Aggressive Cows Problem ( SPOJ : AGGRCOW ).
 
-Painter's Puzzle.
+28. Painter's Puzzle.
 
-Convert a given String of Numerals to a Pallindrom with least number of Changes.
+29. Convert a given String of Numerals to a Pallindrom with least number of Changes.
 
-Find the Intersection point of two Linked List.
+30. Find the Intersection point of two Linked List.
 
-Diameter of a Binary Tree.
+31. Diameter of a Binary Tree.
 
-Level Order Traversal.
+32. Level Order Traversal.
 
-Set Kth Bit. 
+33. Set Kth Bit. 
 
-Lowest Common Ancestor. 
+34. Lowest Common Ancestor. 
 
-Maximum ___________ XOR for an Array of Even Numbers.
+35. Maximum ___________ XOR for an Array of Even Numbers.
