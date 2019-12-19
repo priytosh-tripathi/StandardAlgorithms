@@ -6,6 +6,8 @@ Please use your branch for commits.
 
 Its collabarative work, please express and ask. 
 
+-Priytosh Tripathi
+
 ## WHATEVER IT TAKES!
 ___________________________________________________________________________________________________________________________________________
 
