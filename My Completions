@@ -4,6 +4,7 @@ Egg Dropping Problem.
 Stock Market / Skyline Problem.
 Find if there is a loop in a Linked list (Single).
 Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
+Minimum number of Platforms needed for every train can hault at the given Station.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Current :##
@@ -27,7 +28,6 @@ Given a Binary Matrix , find the largest rectangle of 0's.
 Given a Binary Matrix , find the largest Square of 0's.
 Given a Binary Matrix , find the largest Island of 0's.
 Sieve of Erasthothenus.
-Minimum number of Platforms needed for every train can hault at the given Station.
 Longest Common subsequence / Minimum edit distance.
 Kth smallest element in an Array.
 Merge K sorted Array.
