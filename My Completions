@@ -5,6 +5,7 @@ Stock Market / Skyline Problem.
 Find if there is a loop in a Linked list (Single).
 Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
 Minimum number of Platforms needed for every train can hault at the given Station.
+Set Kth Bit.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Current :##
@@ -36,7 +37,6 @@ Painter's Puzzle.
 Convert a given String of Numerals to a Pallindrom with least number of Changes.
 Find the Intersection point of two Linked List.
 Diameter of a Binary Tree.
-Level Order Traversal.
-Set Kth Bit. 
+Level Order Traversal. 
 Lowest Common Ancestor. 
 Maximum ___________ XOR for an Array of Even Numbers.
