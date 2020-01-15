@@ -6,9 +6,10 @@ Find if there is a loop in a Linked list (Single).
 Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
 Minimum number of Platforms needed for every train can hault at the given Station.
 Set Kth Bit.
+Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-##Current :##
+##Test :##
 If there's a loop, find the starting Point.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,7 +25,6 @@ Quick Search.
 Max Heap / Heapify Procedure.
 Find the Left view of a Binary Tree. 
 Find the Bottom view of a Binary Tree.
-Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
 Given a Binary Matrix , find the largest rectangle of 0's.
 Given a Binary Matrix , find the largest Square of 0's.
 Given a Binary Matrix , find the largest Island of 0's.
