@@ -7,6 +7,7 @@ Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
 Minimum number of Platforms needed for every train can hault at the given Station.
 Set Kth Bit.
 Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
+Rain Water Trapping Problem.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Test :##
@@ -17,7 +18,6 @@ If there's a loop, find the starting Point.
 Coin Change Problem.
 Given a number , find the next largest prime number.
 Given a number , find the next largest pallindrom number.
-Rain Water Trapping Problem.
 Find the Number of Unique pallindromic substring in a given string. 
 Convert BST to Heap in Linear Time.
 Find the Kth element from the last of the linked list in a Single Traversal.
