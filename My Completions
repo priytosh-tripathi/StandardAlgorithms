@@ -7,7 +7,11 @@ Exchange A[i] with A[A[i]] without extra space , if 0 <= A[i] <= (n-1).
 Minimum number of Platforms needed for every train can hault at the given Station.
 Set Kth Bit.
 Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
+<<<<<<< HEAD
 Rain Water Trapping Problem.
+=======
+Find the Intersection point of two Linked List.
+>>>>>>> 3de4da818b80ea4267bb81b4bdf8166f76d9dcb9
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Test :##
@@ -35,7 +39,6 @@ Merge K sorted Array.
 Aggressive Cows Problem ( SPOJ : AGGRCOW ).
 Painter's Puzzle.
 Convert a given String of Numerals to a Pallindrom with least number of Changes.
-Find the Intersection point of two Linked List.
 Diameter of a Binary Tree.
 Level Order Traversal. 
 Lowest Common Ancestor. 
