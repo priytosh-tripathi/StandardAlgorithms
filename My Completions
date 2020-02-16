@@ -9,9 +9,20 @@ Set Kth Bit.
 Given a String, break it into Substrings wherever you encounter a Special Character and Print those Substrings.
 <<<<<<< HEAD
 Rain Water Trapping Problem.
-=======
 Find the Intersection point of two Linked List.
->>>>>>> 3de4da818b80ea4267bb81b4bdf8166f76d9dcb9
+Coin Change Problem.
+Given a number , find the next largest prime number.
+Convert BST to Heap in Linear Time.
+Find the Kth element from the last of the linked list in a Single Traversal.
+Quick Search.
+Find the Left view of a Binary Tree. 
+Diameter of a Binary Tree.
+Level Order Traversal. 
+Lowest Common Ancestor. 
+Painter's Puzzle.
+Sieve of Erasthothenus.
+Given a Binary Matrix , find the largest Square of 0's.
+=======
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Test :##
@@ -19,27 +30,15 @@ If there's a loop, find the starting Point.
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ##Remaining :##
-Coin Change Problem.
-Given a number , find the next largest prime number.
 Given a number , find the next largest pallindrom number.
 Find the Number of Unique pallindromic substring in a given string. 
-Convert BST to Heap in Linear Time.
-Find the Kth element from the last of the linked list in a Single Traversal.
-Quick Search.
 Max Heap / Heapify Procedure.
-Find the Left view of a Binary Tree. 
 Find the Bottom view of a Binary Tree.
 Given a Binary Matrix , find the largest rectangle of 0's.
-Given a Binary Matrix , find the largest Square of 0's.
 Given a Binary Matrix , find the largest Island of 0's.
-Sieve of Erasthothenus.
 Longest Common subsequence / Minimum edit distance.
 Kth smallest element in an Array.
 Merge K sorted Array.
 Aggressive Cows Problem ( SPOJ : AGGRCOW ).
-Painter's Puzzle.
 Convert a given String of Numerals to a Pallindrom with least number of Changes.
-Diameter of a Binary Tree.
-Level Order Traversal. 
-Lowest Common Ancestor. 
 Maximum ___________ XOR for an Array of Even Numbers.
