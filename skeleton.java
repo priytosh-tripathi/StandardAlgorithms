@@ -2,7 +2,7 @@
 Legends - A: An Array.
           S: A String Array
           n: Size of the Array A.
-
+          x: an integer variable.
 The List of Functions in the Library
 1. Take input in an Integer Array - ob.ar_iin(n);
 2. Take input in an String Array - ob.ar_sin(n);
@@ -11,7 +11,11 @@ The List of Functions in the Library
 5. Print the content of an int Array - ob.print_iarr(A);
 6. Print the content of an String Array - ob.print_sarr(A);
 7. Print the content of a Character Array - ob.print_carr(A);
-8. 
+8. Print the content of a Double Array - ob.print_darr(A);
+9. Get the sum of an Integer Array - ob.ar_sum(A);
+10. Get the Maximum in an Array  - ob.ar_max(A);
+12. Get the Minimum in an Array - ob.ar_min(A);
+13. Get the Number of Digits in an Integer - ob.idigits(x);
 */
 
 import java.io.*;
