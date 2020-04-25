@@ -31,7 +31,7 @@ class skeleton
     while(test-->0)
     {
     	int n = Integer.parseInt(in.readLine());
-        int A[] = ob.ar_in(n);
+        int A[] = ob.ar_iin(n);
 
         System.out.println();
     }
@@ -58,7 +58,7 @@ class skeleton
     return strs;
   }
 
-  public int[] ar_cin(int n)throws Exception
+  public char[] ar_cin(int n)throws Exception
   { //Take Integer Array as Input
     DataInputStream in = new DataInputStream(System.in);
     //int n = Integer.parseInt(in.readLine());
@@ -66,11 +66,11 @@ class skeleton
     char A[] = new char[n];
     String strs[] = line.trim().split(" ");
     for(int i=0;i<n;i++)
-     A[i] = Character.parseChar(strs[i]);
+     A[i] = (strs[i]).charAt(0);
     return A;
   }
 
-  public int[] ar_din(int n)throws Exception
+  public double[] ar_din(int n)throws Exception
   { //Take Integer Array as Input
     DataInputStream in = new DataInputStream(System.in);
     //int n = Integer.parseInt(in.readLine());
