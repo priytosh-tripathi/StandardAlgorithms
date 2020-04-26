@@ -23,7 +23,7 @@ import java.util.*;
 class skeleton
 {
 
-  public static void main()throws Exception
+  public static void main(String args[])throws Exception
   {
     skeleton ob = new skeleton();        
     int test = ob.iin();
