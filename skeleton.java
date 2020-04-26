@@ -23,20 +23,32 @@ import java.util.*;
 class skeleton
 {
 
-  public static void main(String args[])throws Exception
+  public static void main()
   {
-    DataInputStream in = new DataInputStream(System.in);
-    int test = Integer.parseInt(in.readLine());
-    skeleton ob = new skeleton();
+    skeleton ob = new skeleton();        
+    int test = ob.iin();
     while(test-->0)
     {
-    	int n = Integer.parseInt(in.readLine());
+        int n = ob.iin();
         int A[] = ob.ar_iin(n);
-
         System.out.println();
     }
   }
 
+  public int iin()throws Exception
+  {
+    DataInputStream in = new DataInputStream(System.in);
+    int n = Integer.parseInt(in.readLine());
+    return n;
+  }
+  
+  public String sin()throws Exception
+  {
+    DataInputStream in = new DataInputStream(System.in);
+    String s = in.readLine();
+    return s;
+  }
+          
   public int[] ar_iin(int n)throws Exception
   { //Take Integer Array as Input
     DataInputStream in = new DataInputStream(System.in);
