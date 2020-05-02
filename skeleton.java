@@ -16,6 +16,8 @@ The List of Functions in the Library
 10. Get the Maximum in an Array  - ob.ar_max(A);
 12. Get the Minimum in an Array - ob.ar_min(A);
 13. Get the Number of Digits in an Integer - ob.idigits(x);
+14. Get an Integer Input - ob.iin();
+15. Get a String Input - ob.sin();
 */
 
 import java.io.*;
@@ -23,6 +25,7 @@ import java.util.*;
 class skeleton
 {
 
+// Write Your Program in the main method below! 
   public static void main(String args[])throws Exception
   {
     skeleton ob = new skeleton();        
@@ -31,9 +34,12 @@ class skeleton
     {
         int n = ob.iin();
         int A[] = ob.ar_iin(n);
+        
         System.out.println();
     }
   }
+
+  // *********** Below are the library functions, just refer the Legends at the start of the Program to use them.
 
   public int iin()throws Exception
   {
@@ -145,12 +151,12 @@ class skeleton
   {
     return (int)Math.floor(Math.log10(n) + 1);
   }
-  
+
   public int[] freq(String n)
   {
     n=n.toLowerCase();
     int A[] = new int[26];
-    int len = n.length()
+    int len = n.length();
     for(int i=0;i<len;i++){
       char a = n.charAt(i);
       int temp = (int)a;
