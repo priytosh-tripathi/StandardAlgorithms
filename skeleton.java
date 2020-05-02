@@ -145,5 +145,19 @@ class skeleton
   {
     return (int)Math.floor(Math.log10(n) + 1);
   }
+  
+  public int[] freq(String n)
+  {
+    n=n.toLowerCase();
+    int A[] = new int[26];
+    int len = n.length()
+    for(int i=0;i<len;i++){
+      char a = n.charAt(i);
+      int temp = (int)a;
+      int val = temp-97;
+      A[val]++;
+    }
+    return A;
+  }
 
 }
